@@ -1,0 +1,10 @@
+Using the code you wrote in the previous hands-on exercise:
+● build your program for windows
+○ GOOS=windows go build
+● build your program for mac
+○ GOOS=darwin go build
+● build your program for linux
+○ GOOS=linux go build
+
+
+i ran: GOOS=darwin to build my 053 program for mac

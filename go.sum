@@ -1,4 +1,10 @@
+github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9 h1:WtQjqEAV0EwbFVvp4ETs4XvRmdE0+r578aLTAnay80Y=
+github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9/go.mod h1:bSJZIYrINAWfFsUPONiX6V8GGsCFquPtn5yE6DFvIkE=
+github.com/GoesToEleven/puppy v1.2.0 h1:oH8CmnGauWjv0RmtYu2saAwRaB6MOfx6L+SPZnWmBfk=
+github.com/GoesToEleven/puppy v1.2.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
+github.com/GoesToEleven/puppy v1.3.0 h1:6kvL9k6x8STNArAn3VVdQAye+5AOM3SbxV0uPdq5xn0=
+github.com/GoesToEleven/puppy v1.3.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
 github.com/waserdyland/dog v0.0.0-20240105004707-ec3a5bcaeead h1:m9B+pdGVvfJhCbCUZED/59EdZM16khWO3NeG+2C8x/c=
 github.com/waserdyland/dog v0.0.0-20240105004707-ec3a5bcaeead/go.mod h1:nXC8reM4wCKkV9yrFMepzFJ5h7htBIzJGaUGw7ybiME=
-github.com/waserdyland/puppy v0.0.0-20240105004756-3206403f8173 h1:jlx+6BQHzOB3VmJmqPmWiOaOB883W738VNHBw8nHZAM=
-github.com/waserdyland/puppy v0.0.0-20240105004756-3206403f8173/go.mod h1:XIHZpq8C4n/38TghZGH2ywSkpqbA6+0CUh8pl9I4y/4=
+github.com/waserdyland/puppy v1.3.0 h1:ciQVs56BZKY7HwYFlODNTCJcOEPp6+6IYcWapOezNlQ=
+github.com/waserdyland/puppy v1.3.0/go.mod h1:dKVNBz8WSBnbSRvEueFbOp6y8ERIENPryLjBXl5tjdk=
